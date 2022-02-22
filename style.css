@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+}
+.moon{
+    border: solid 4px white;
+    width: 100px;
+    height: 200px;
+    display: inline;
+    font-size: 30px;
+    color: #944000;
+    background-color: #FF7D19;
+}
